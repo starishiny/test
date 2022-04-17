@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "git-all": "^0.0.3",
+    "nodemon": "^2.0.15",
+    "simple-git": "^3.6.0"
+  }
+}
